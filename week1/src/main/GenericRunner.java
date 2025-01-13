@@ -19,6 +19,10 @@ public class GenericRunner {
         a.add(15);
 //        a.add("15"); // compile fails here
         Integer b = a.get(0); // no need to cast like above to retrieve value
+
+        //Generic Interface
+        GenericInterface<String> list = new GenericInterface<>();
+        list.add("Good afternoon");
     }
 }
 
