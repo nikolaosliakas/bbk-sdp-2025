@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/bbk-sdp-2025.iml" filepath="$PROJECT_DIR$/.idea/bbk-sdp-2025.iml" />
       <module fileurl="file://$PROJECT_DIR$/week4_streams/week4_streams.iml" filepath="$PROJECT_DIR$/week4_streams/week4_streams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week5_reflection/week5_reflection.iml" filepath="$PROJECT_DIR$/week5_reflection/week5_reflection.iml" />
     </modules>
   </component>
 </project>
